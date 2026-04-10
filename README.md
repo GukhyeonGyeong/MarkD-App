@@ -45,7 +45,7 @@
 Having trouble or have a question? We're here to help.
 
 - **Email**: [eyaa.moment@gmail.com](mailto:eyaa.moment@gmail.com)
-- **Issues**: [Open an issue](https://github.com/your-username/MarkD-App/issues)
+- **Issues**: [Open an issue](https://github.com/GukhyeonGyeong/MarkD-App/issues)
 
 Please include the following when reporting a bug:
 - iOS version
