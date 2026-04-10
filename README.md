@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/markd">
+  <a href="https://apps.apple.com/us/app/markd-markdown-viewer/id6761923946">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40" alt="Download on the App Store">
   </a>
 </p>
