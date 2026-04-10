@@ -31,9 +31,9 @@
 
 ## Screenshots
 
-| Library | Viewer | Code | Diagrams |
-|---------|--------|------|----------|
-| ![Library](assets/screenshot-1.png) | ![Viewer](assets/screenshot-2.png) | ![Code](assets/screenshot-3.png) | ![Diagrams](assets/screenshot-4.png) |
+| Library | Viewer | Code |
+|---------|--------|------|
+| ![Library](assets/screenshot-1.png) | ![Viewer](assets/screenshot-2.png) | ![Code](assets/screenshot-3.png) |
 
 ## Requirements
 
