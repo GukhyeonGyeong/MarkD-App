@@ -33,7 +33,7 @@
 
 | Library | Viewer | Code |
 |---------|--------|------|
-| ![Library](assets/screenshot-3.png) | ![Viewer](assets/screenshot-1.png) | ![Code](assets/screenshot-2.png) |
+| ![Library](assets/screenshot-2.png) | ![Viewer](assets/screenshot-3.png) | ![Code](assets/screenshot-1.png) |
 
 ## Requirements
 
